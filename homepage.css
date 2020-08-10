@@ -1,0 +1,101 @@
+body{
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+}
+
+header{
+  background-color:white;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+#details1{
+  background-image: url("home.jpg");
+  background-size: cover;
+  margin: 0;
+  height: 650px;
+  top: 58px;
+  margin-bottom: 50px;
+
+
+}
+ #head1
+ {
+   text-align: center;
+   color: #FFD700;
+   align:center;
+   font-size: 50px;
+   margin-top: 0;
+   margin-bottom: 0;
+   background-color: #333333;
+   padding: 2px;
+   font-stretch: ultra-condensed;
+  }
+ h2{
+   text-align: center;
+   color: #0C1B31;
+   align:center;
+   font-size: 50px;
+   margin-top: 0;
+ }
+.center
+{
+  text-align: center;
+}
+.menubar
+{
+  background-color: black;
+  color: white;
+  margin-bottom:0;
+  margin-top:0;
+}
+
+.infoimg1{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#details001
+{
+  height: 400px;
+}
+#infotext1
+{
+  margin: 50px;
+}
+.tab
+{
+  width: 200px;
+  display: inline-block;
+}
+.input{
+  border-radius: 10px;
+  height: 40px;
+  width: 250px;
+  background: none;
+  font-size: 30px;
+  }
+  #button
+  {
+    border-radius: 10px;
+    background: none;
+    font-size: 30px;
+
+    height: 80px;
+    width: 250px;
+  }
+
+  .imgb
+  {
+    border: 2px solid black;
+  }
+  .entry
+  {
+    font-size: 30px;
+
+  }
+
+footer{
+  background-color: #EFEF9E;
+}
